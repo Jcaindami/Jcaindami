@@ -1,6 +1,6 @@
 # Olá, eu sou a Júlia Indami! 👋
 
-**Analista e Cientista de Dados | Desenvolvedora Full-Stack**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&vCenter=true&width=600&lines=Analista+de+Dados;Cientista+de+Dados;Desenvolvedora+Full-Stack;Entusiasta+em+Inteligência+Artificial)](https://git.io/typing-svg)
 
 Sou apaixonada por transformar dados em soluções reais, automatizar processos corporativos e explorar o mundo da Inteligência Artificial. Venho construindo desde pipelines de dados eficientes até aplicações web completas, sempre com foco em escalabilidade e impacto no negócio.
 

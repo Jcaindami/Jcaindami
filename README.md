@@ -40,14 +40,10 @@ Aqui estão alguns dos projetos e soluções arquitetônicas que desenvolvi rece
 
 ## Contato
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/julia-indami" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn da Júlia">
-  </a>
-  <a href="mailto:juliaindami@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email da Júlia">
-  </a>
-</div>
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%BAlia-indami-55a65516b)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaindami@gmail.com)
 
 ---
 *Sempre em busca de aprender e construir ferramentas eficientes.*
